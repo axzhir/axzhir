@@ -4,7 +4,7 @@
 
 Hi There! I'm a junior at George Mason University, pursuing a degree in Information Technology with a focus in Cybersecurity, along with a minor in Computer Science. My passion for coding has driven me to become proficient in a variety of programming languages and technologies. In addition to my studies, I work as a freelance programmer, specializing in creating bots that solve real-world problems. I used langauges such as Python, Java, JavaScript, Swift, Django, Qiskit, Ruby, C++, C, C#, HTML, CSS, Node.js, Scratch, and SQL. One of my notable projects is a portfolio website that showcases my work, certifications and skills. My career goal is to become an influential computer scientist who advocates for and supports minorities and women in STEM fields. I believe in the power of technology to create positive change, and I am dedicated to using my skills to make a difference. When I'm not coding, I enjoy drawing and writing, which help me balance my technical pursuits with creativity.
 
-Feel free to check out my repositories and get in touch!
+Feel free to follow me on LinkedIn and keep in touch!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fttahir/">
@@ -27,3 +27,5 @@ Feel free to check out my repositories and get in touch!
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
+
+#
