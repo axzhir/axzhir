@@ -56,6 +56,23 @@ I am also a **Quantum Intern at Quantumpedia x QWorld**, selected as one of five
 
 ---
 
+## 📈 My GitHub Stats:
+<p align="center">
+  <a href="https://github.com/axzhir/">
+    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=axzhir&show_icons=true&locale=en" alt="Fanizza's GitHub stats" />
+  </a> 
+  
+  <a href="https://github.com/axzhir/">
+    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axzhir&layout=compact&langs_count=8&locale=en&exclude_repo=CMTT-LID" alt="Fanizza's GitHub Top Languages"/>
+  </a>
+  
+  <a href="https://github.com/axzhir/">
+    <img height="150em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=axzhir&locale=en&date_format=d%20F,%20Y" alt="Fanizza's GitHub Streak" />
+  </a>
+</p>
+
+---
+
 ## 📊 Skills
 
 - **Languages:** Java, Python, C, Kotlin, TypeScript, SQL  
