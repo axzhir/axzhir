@@ -12,7 +12,7 @@
     </a>
   </span>
   <span style="float: right; margin-right: 10px;">
-    <a href="[Your Resume Link Here]" target="_blank">
+    <a href="https://docs.google.com/document/d/1FTG1boxRjpzaqHuR-55dgd6zeMj0oTlqT0yUH6hQZpE/edit?usp=sharing" target="_blank">
       <img src="https://img.shields.io/badge/-Resume-f2336f?&style=for-the-badge&logoColor=white" />
     </a>
   </span>
