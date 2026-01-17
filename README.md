@@ -67,7 +67,7 @@ I’ve worked on <strong>industry-facing AI projects</strong> across CRM platfor
     Developed AI agents to automate trend discovery and competitor monitoring, and built data pipelines to support category-level market analysis and decision-making.
   </td>
   <td>Python, n8n, AI Agents, Data Analysis</td>
-  <td>Private</td>
+  <a href="https://github.com/axzhir/Wayfair-AI-Automation-Externship-Portfolio">Repo</a>
 </tr>
 
 <tr>
@@ -76,7 +76,7 @@ I’ve worked on <strong>industry-facing AI projects</strong> across CRM platfor
     Designed an end-to-end document intelligence pipeline for large mortgage files using OCR and retrieval-based methods, focusing on structured data extraction from unstructured documents.
   </td>
   <td>Python, OCR, LlamaIndex, RAG</td>
-  <td>Private</td>
+  <a href="https://github.com/axzhir/Outamation-AI-Externship-Portfolio">Repo</a>
 </tr>
 
 <tr>
@@ -96,7 +96,7 @@ I’ve worked on <strong>industry-facing AI projects</strong> across CRM platfor
     Contributed to research on privacy-preserving quantum machine learning models for financial systems and helped develop tooling for distributed quantum ML experimentation.
   </td>
   <td>Qiskit, PennyLane, Quantum Machine Learning</td>
-  <td>Private</td>
+  <a href="https://github.com/Louisanity/quantum_for_finance">Repo</a>
 </tr>
 </table>
 
